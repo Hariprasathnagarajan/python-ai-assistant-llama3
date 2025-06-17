@@ -33,6 +33,7 @@ Powered by **LLaMA 3** (using `langchain`) and **Streamlit**, this tool lets you
 
 Clone this repository:
 
+```bash
 git clone https://github.com/Hariprasathnagarajan/python-ai-assistant-llama3.git
 cd python-ai-assistant-llama3
 
