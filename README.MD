@@ -31,25 +31,25 @@ Powered by **LLaMA 3** (using `langchain`) and **Streamlit**, this tool lets you
 
 ## ⚙ Installation
 
-1️⃣ **Clone this repository:**
+Clone this repository:
 
 ```bash
 git clone https://github.com/Hariprasathnagarajan/python-ai-assistant-llama3.git
 cd python-ai-assistant-llama3
 
 ---
-2️⃣ **Create and activate a virtual environment:**
+## Create and activate a virtual environment:
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate  # Mac/Linux
 .\venv\Scripts\activate  # Windows
 ---
 
-3️⃣ **Install required packages:**
+## Install required packages:
 ```bash
 pip install -r requirements.txt
 ---
-**Run Application**
+## Run Application
 ```bash
 streamlit run a.py
 ---
