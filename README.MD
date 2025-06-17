@@ -37,19 +37,19 @@ Clone this repository:
 git clone https://github.com/Hariprasathnagarajan/python-ai-assistant-llama3.git
 cd python-ai-assistant-llama3
 
----
+
 
 ## Create and activate a virtual environment:
 
 python3 -m venv .venv
 source .venv/bin/activate  # Mac/Linux
 .\venv\Scripts\activate  # Windows
----
+
 
 ## Install required packages:
 
 pip install -r requirements.txt
----
+
 
 ## Run Application
 
